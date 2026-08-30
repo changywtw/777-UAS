@@ -1,0 +1,5 @@
+{
+  "name": "B777 Unreliable Airspeed Calculator",
+  "description": "A performance tool for Boeing 777 pilots to calculate pitch and thrust settings during unreliable airspeed conditions. Optimized for iPad and offline usage onboard aircraft.",
+  "requestFramePermissions": []
+}
